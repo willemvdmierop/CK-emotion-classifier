@@ -3,7 +3,7 @@ Emotion classifier of the CK+ dataset with a Pytorch CNN with image augmentation
 
 Image augmentation: 
 
-<img src="images/ImageAugmentation.png" width="600">
+<img src="images/ImageAugmentation.png" width="900">
 
 The Loss and Accuracy curve:
 
